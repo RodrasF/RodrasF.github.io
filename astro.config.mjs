@@ -6,6 +6,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://rodrasf.github.io",
+  site: "https://rodrigofrazao.dev",
   integrations: [mdx(), sitemap()],
 });
